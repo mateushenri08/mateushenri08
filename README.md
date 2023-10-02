@@ -1,16 +1,13 @@
-### Hi there 👋
+### OLÀ. SEJA BEM VINDO AO MEU PERFIL.
 
-<!--
-**mateushenri08/mateushenri08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aluno Mateus Henrique 
 
-Here are some ideas to get you started:
+* Sou aluno do primeiro ano, período integral.
+* Sou atleta e estudante no período integral.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PARA ENTRAR EM CTT COMIGO:
+
+* mateus.fernandes.santos29@escola.pr.gov.br
+* @mateus_fernades_021
+![](https://media.tenor.com/qrlTJPQeNVEAAAAd/gargalhada-a-fazenda.gif)
+
